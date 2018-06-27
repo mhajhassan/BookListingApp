@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#1b1b1b</color>
+    <color name="colorPrimaryLight">#6d6d6d</color>
+
+    <!-- Text color for the subtitle of the Book in the list item -->
+    <color name="textColorSubtitle">#adb5bc</color>
+
+    <!-- Text color for title of the Book in the list item -->
+    <color name="textColorTitle">#394148</color>
+
+    <color name="dark_purple">#002ea7</color>
+    <color name="light_purple">#001754</color>
+
+    <color name="white">#ffffff</color>
+
+</resources>
